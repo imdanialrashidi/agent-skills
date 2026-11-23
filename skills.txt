@@ -1,0 +1,14 @@
+# One skill per line: NAME OWNER/REPO DIRECTORY [GIT_REF]
+# Use . for the repository root. Omit GIT_REF to follow the default branch.
+
+antislop                      miqdadbadjuber/anti-slop       skills/antislop                                    7f6a03df2931c12cb244dc4ab14ee4866b0ac2ba
+antislop-code                 miqdadbadjuber/anti-slop       skills/antislop-code                               7f6a03df2931c12cb244dc4ab14ee4866b0ac2ba
+antislop-copywriting          miqdadbadjuber/anti-slop       skills/antislop-copywriting                        7f6a03df2931c12cb244dc4ab14ee4866b0ac2ba
+antislop-human                miqdadbadjuber/anti-slop       skills/antislop-human                              7f6a03df2931c12cb244dc4ab14ee4866b0ac2ba
+antislop-layoutmobile         miqdadbadjuber/anti-slop       skills/antislop-layoutmobile                       7f6a03df2931c12cb244dc4ab14ee4866b0ac2ba
+antislop-ui                   miqdadbadjuber/anti-slop       skills/antislop-ui                                 7f6a03df2931c12cb244dc4ab14ee4866b0ac2ba
+codebase-design               mattpocock/skills              skills/engineering/codebase-design                 abeeaf95660ba9e8b7c753eb38f441ca707a8823
+improve                       shadcn/improve                 skills/improve                                     cac56e1ebd3c279aa9153616cfeac7b174ab90f9
+improve-codebase-architecture mattpocock/skills              skills/engineering/improve-codebase-architecture   abeeaf95660ba9e8b7c753eb38f441ca707a8823
+seo-audit                     coreyhaines31/marketingskills  skills/seo-audit                                   b06e7f7a6428214ceae911d83ca9ecac96e06af8
+stageshow                     benjitaylor/skills             stageshow                                          299140fafd08df55a9c234e610c3f64af3f45531
